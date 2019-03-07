@@ -4,7 +4,7 @@ called immobilienscout24.de. I then visualise the average rent by postal code on
 build a predictive model estimating rent prices based on the attributes of the properties.
 
 The error of the predictive model is 15% of the square metre price or 2.50 Euros, which is a significant improvement over the baseline model
-with an error of 29% or 4.50 Euros.
+with an error of 29% or 4.50 Euros. This error could be further reduced by adding additional data sources.
 
 Please see the code for the web scraping in this [Jupyter notebook](https://github.com/AleKosc/Berlin-Rent-Prices-Web-Scraping-Visualisation-Predictive-Model/blob/master/Berlin_Rent_Scraping.ipynb)
 
