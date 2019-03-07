@@ -10,5 +10,5 @@ Please see the code for the web scarping in this [Jupyter notebook](https://gith
 
 And the code for the predictive model in this [Jupyter notebook](https://github.com/AleKosc/Berlin-Rent-Prices-Web-Scraping-Visualisation-Predictive-Model/blob/master/Berlin_Rent_Model.ipynb)
 
-The heat map of Berlin rent prices by postal code can be found here:
+The heat map of Berlin rent prices by postal code can be found [here](https://public.tableau.com/profile/ale.kos#!/vizhome/BerlinRentperSqM/RentperSqM)
     
