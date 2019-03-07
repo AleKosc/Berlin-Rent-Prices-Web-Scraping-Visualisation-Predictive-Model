@@ -6,7 +6,7 @@ build a predictive model estimating rent prices based on the attributes of the p
 The error of the predictive model is 15% of the square metre price or 2.50 Euros, which is a significant improvement over the baseline model
 with an error of 29% or 4.50 Euros.
 
-Please see the code for the web scarping in this [Jupyter notebook](https://github.com/AleKosc/Berlin-Rent-Prices-Web-Scraping-Visualisation-Predictive-Model/blob/master/Berlin_Rent_Scraping.ipynb)
+Please see the code for the web scraping in this [Jupyter notebook](https://github.com/AleKosc/Berlin-Rent-Prices-Web-Scraping-Visualisation-Predictive-Model/blob/master/Berlin_Rent_Scraping.ipynb)
 
 And the code for the predictive model in this [Jupyter notebook](https://github.com/AleKosc/Berlin-Rent-Prices-Web-Scraping-Visualisation-Predictive-Model/blob/master/Berlin_Rent_Model.ipynb)
 
